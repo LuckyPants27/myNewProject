@@ -60,6 +60,7 @@ public class Main {
         System.out.println(weightDifference);
 
 
+
         var workHours = 640;
         var eachEmployeeWorkHours = 8;
         var employeesAmount = workHours / eachEmployeeWorkHours;
